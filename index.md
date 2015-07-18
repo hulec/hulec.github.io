@@ -5,7 +5,7 @@ published: true
 ---
 
 <div align="right">
-Created by Tom Hackshaw
+Created by [Tom Hackshaw][hm]
 <br>
 thac408
 <br>
@@ -13,3 +13,5 @@ thac408
 </div>
 
 [mail]: mailto:hi@tomhackshaw.com
+[hm]: https://tomhackshaw.com
+
