@@ -9,12 +9,12 @@
 			{% for exhibit in site.categories.exhibit %}
 				{% if exhibit.home == true and counter == 0 %}
 					{% assign counter = 1 %}
-					<title>{{exhibit.title}}</title>
+					<title>project 3</title>
 					<meta name='description' content="{{exhibit.content | truncate: 50 }}" />
 				{% endif %}
 			{%  endfor %}
 		{% else %}
-			<title>{{page.title}}</title>
+			<title>project 3</title>
 			<meta name='description' content="{{page.content | truncate: 50 }}" />
 		{% endif %}
 		<meta name='author' content="{{ site.author }}" />
@@ -28,7 +28,7 @@
 		<div id='index'>
 			<div class='container'>
 				<div class='top'>
-					<p><strong><a href='/' style='color: black;'>{{ site.title }}</a></strong></p>
+					<p><strong><a href='/' style='color: blue;'>project 3</a></strong></p>
 				</div>
 				{% for section in site.categories.section %}
 					<ul class='section' id='section_{{ section.id }}'>
@@ -43,9 +43,11 @@
 						</li>
 					</ul>
 				{%  endfor %}
-				<div class='bot'><p>Creado por:<br />
-				<a href='http://twitter.com/{{site.twitter}}'>{{site.author}}</a></p>
-				<p><a href='https://github.com/colaborativa/Jekyllxhibit'>Desarrollado con Jekyllxhibit</a></p></div>
+				<div class='bot'><p><br />
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/88px-CC-BY_icon.svg.png"><br>This work is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution International License.</a>
+				<p>Built with <a href='https://github.com/colaborativa/Jekyllxhibit'>Jekyllxhibit</a></p>
+				<br><br>
+				
 			</div>
 		</div>
 		{% if page.title == 'index' %}
