@@ -5,11 +5,11 @@ published: true
 ---
 
 <div align="right">
-Created by [Tom Hackshaw][hm]
+Created by Tom Hackshaw
 <br>
 thac408
 <br>
-[hi@tomhackshaw.com][mail]
+<a href="mailto:hi@tomhackshaw.com">hi@tomhackshaw.com</a>
 </div>
 
 [mail]: mailto:hi@tomhackshaw.com
