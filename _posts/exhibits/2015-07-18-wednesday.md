@@ -7,7 +7,7 @@ section: Week one
 category: exhibit
 ---
 
-I took a photograph of a balnk piece of paper, printed that image, then photographed the result and printed that image etc.
+I took a photograph of a blank piece of paper, printed that image, then photographed the result and printed that image etc.
 <br>
 I repeated this process until the printer jammed for the fourth time, and it would no longer feed through the piece of paper I had been using.
 <br>
