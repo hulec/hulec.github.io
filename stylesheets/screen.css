@@ -216,13 +216,13 @@ a:link {
 /* line 21, ../sass/screen.scss */
 a:active {
   text-decoration: none;
-  color: #00cc00;
+  color: #BF4E4E;
 }
 
 /* line 22, ../sass/screen.scss */
 a:visited {
   text-decoration: none;
-  color: #666;
+  color: #e3b1b1;
 }
 
 /* line 23, ../sass/screen.scss */
