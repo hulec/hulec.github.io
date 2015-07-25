@@ -6,7 +6,7 @@ published: true
 
 <center>
 
-<img src="https://farm1.staticflickr.com/413/19884981246_c9d3ba9374_c.jpg">
+<img src="https://farm1.staticflickr.com/532/19956235331_aba0c69fd1_z_d.jpg">
 
 <center>
 
