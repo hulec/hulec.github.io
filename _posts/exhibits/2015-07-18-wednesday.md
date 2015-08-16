@@ -86,3 +86,172 @@ Rinse and repeat
 <br><br>
 <br><br>
 <img src="https://farm1.staticflickr.com/375/19884728576_1c2c7e60d8_z_d.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+Exploiting the smile detection feature on my Sony digital camera, I set it up to take a photograph automatically if it detected a smilie face (one that I drew on my hand). I would do this everytime I entered or went out of a space (a new building to outside, vice-versa).
+
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
