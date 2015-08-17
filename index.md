@@ -6,7 +6,7 @@ published: true
 
 <center>
 
-<img src="https://farm6.staticflickr.com/5832/20599299922_dd021134f4_c.jpg">
+<img src="https://farm1.staticflickr.com/706/19985599734_697d88abb9_k_d.jpg" alt="Skin" height="534" width="800">
 
 <center>
 
