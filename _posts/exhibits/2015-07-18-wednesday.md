@@ -184,3 +184,9 @@ Exploiting the smile detection feature on my Sony digital camera, I set it up to
 <br><br>
 <br><br>
 <img src="https://farm6.staticflickr.com/5753/20605267812_6195875a12_z_d.jpg">
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
+<img src="https://farm6.staticflickr.com/5736/20670637211_a04e3ff762_z_d.jpg">
