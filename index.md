@@ -12,7 +12,7 @@ Sense of Place: Sequence and Series Project
 
 <center>
 
-<img src="https://farm1.staticflickr.com/654/20589465199_3d3744a02e_b.jpg" alt="Tree" height="800" width="600">
+<img src="https://farm6.staticflickr.com/5622/20010512764_038e1d1a41_h.jpg" alt="Tree" height="449" width="800">
 
 </center>
 
